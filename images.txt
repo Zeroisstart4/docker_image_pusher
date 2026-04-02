@@ -1,1 +1,2 @@
 jack2662/game:hmzq
+--platform=linux/arm64
