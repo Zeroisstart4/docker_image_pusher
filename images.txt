@@ -1,2 +1,1 @@
-jack2662/game:hmzq
---platform=linux/arm64
+jack2662/game:hmzq:latest
